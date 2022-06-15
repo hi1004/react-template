@@ -82,6 +82,7 @@ module.exports = {
         ignoreOnInitialization: true,
       },
     ],
+    'react/no-unescaped-entities': [0, { forbid: ['"'] }],
     'react/jsx-no-constructed-context-values': 0,
   },
 };
