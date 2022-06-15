@@ -82,5 +82,6 @@ module.exports = {
         ignoreOnInitialization: true,
       },
     ],
+    'react/jsx-no-constructed-context-values': 0,
   },
 };
