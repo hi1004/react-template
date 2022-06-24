@@ -84,5 +84,9 @@ module.exports = {
     ],
     'react/no-unescaped-entities': [0, { forbid: ['"'] }],
     'react/jsx-no-constructed-context-values': 0,
+    'no-var': 'warn', 
+    'no-multiple-empty-lines': 'warn', 
+    'no-nested-ternary': 'warn', 
+    eqeqeq: 'warn', 
   },
 };
