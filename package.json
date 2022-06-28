@@ -17,6 +17,7 @@
     "react-shadow": "^19.0.3",
     "sass": "^1.52.3",
     "styled-components": "^5.3.5",
+    "styled-reset": "^4.4.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
